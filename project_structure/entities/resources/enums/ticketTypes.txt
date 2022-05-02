@@ -20,6 +20,7 @@ Code Review
 Complex Merge
 Compliance
 Configuration Task
+CR Assessment
 Customizing Model
 Defect
 Defect (WA available)
@@ -35,8 +36,10 @@ Documentation Request
 Documentation Task
 Duty Order
 Duty Request
+E2E Scenario
 Enabler
 Enclave
+Enquiry
 Environment Setup Request
 Epic
 Equipment Modeling
@@ -70,6 +73,7 @@ New Project
 New Branch
 Offer
 Onboarding Request
+Patch Delivery
 PDA Request
 Penertation Testing
 Problem
@@ -106,6 +110,7 @@ Suggestion
 Support Story
 Support ticket
 System Requirement
+Target
 Task
 Technical Debt Payment
 Technology Improvement

@@ -1,0 +1,15 @@
+3rd party software defect
+Code defect
+Configuration
+Design gap
+Environment issue
+Hardware defect
+Installation issue
+Migration issue
+Missed regression
+Missed requirements
+Not a bug
+SVT issue
+TC lack
+Tester's mistake
+Usability issue

@@ -1,0 +1,178 @@
+Open
+In Progress
+Reopened
+Resolved
+Closed
+Scheduled
+Technical Review
+Assessment
+On Hold
+Estimated
+Additional Info Required
+Info Received
+Documentation Generation
+Rejected
+Will be Resolved Today
+Technical Review Done
+Implemented
+Submitted
+Validation by Component Manager
+Waiting For Business Analyst
+Assigned to Business Analyst
+Requirements Review By Component Manager
+Requirements Review By Requestor
+Requirements Approved
+Development Estimating
+Development EstimatedWaiting For Loe Confirmation
+Waiting For Approval
+Waiting For Acceptance
+Done
+Requirements Rejected By Component Manager
+Requirements Rejected By Component Requestor
+Rejected By CR Coordinator
+Rejected By Component Manager
+Rejected By Approver
+Cancelled
+Estimating
+Waiting For Execution
+Completed
+Evaluation
+Pilot
+Deployment
+Validating
+Assessed
+Ready
+Tested
+Validated
+Testing
+Ready For QA
+QA ReopenedTriaged
+Need Validation
+Planned
+Estimation
+Changes Approved
+Development
+Assigned
+Delivered
+Defected Build
+Processed By RE
+Projects Notified
+Recommendations Provided
+Blocked
+Preparing
+Approved
+Waiting Info From Customer
+In Requirements
+Ready For Design
+In Design
+Ready For Assessment
+In Assessment
+Ready For Dev
+In Development
+In QA
+In Testing
+Not Tested
+Passed
+Conditionally Passed
+Failed
+Ready For Testing
+Assembled
+Implementation Scheduled
+Business Review
+Build Issues
+Invalid Build
+Implementing
+Not Run
+Passed With Minor Defects
+Ready For Review
+In Analyses
+Smoke Test
+In Triage
+To Be Closed
+QA Validation
+RND Closed
+New
+Need Planning Rom
+Needs PO Approval
+Not Planned
+Candidate
+Targeted
+In Build
+Documentation Ready
+Tested/Ready For Documentation
+Waiting For Authorization
+Authorized
+Ready For Validation
+Shipped
+Applied
+Approve Required
+Updating
+Reviewing
+Accepted
+Scope Validation Required
+EA Update
+Dev Lead Assessment
+In Design - Dev Started
+In Dev - QA Started
+Pending Clarification
+Ready For Delivery
+Delivered To QA
+Delivered To Client
+Issue Required
+Resolution Provided
+Assessment Info Required
+Queued
+Wait For Assessment
+Schedule Approval
+Implementation Approved
+QA Triage
+Dev Triage
+CR Needed
+Known Issue
+Not Started
+Approved For Development
+Received
+In Queue
+Ready For Audit
+Waiting For Delivery
+Technical Assessment
+Waiting For Package
+VNF Deploying
+To Do
+Assigned To SME
+Pending From Analysis
+ARB Review
+In Analysis
+Feasibility Study
+Approve Requested
+Implementation
+Finalization
+Blocked By Third Party
+Grooming
+Onboarding
+QA Triage Completr
+Ready For Build
+Locked
+Request Accepted
+Reject Solution
+Build Creation
+In Verification
+Ready For Verification
+Verified
+In Implementation
+Improving
+Baseline Change Requested
+Validation By Backport Approver
+Assigned To CR Coordinator
+Rejected By CRS Backport Approver
+Proposal Validation
+In Stabilization
+Ready For Internal Delivery
+Internal Delivery Preparation
+Ready For Client Delivery
+Client Delivery Preparation
+Analysed
+In Delivery
+Groomed
+Ready For Retest
+Waiting For GP Code

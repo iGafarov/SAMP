@@ -1,0 +1,8 @@
+Unresolved
+Fixed
+Not A Bug
+Known Issue
+Duplicate
+Cannot Reproduce
+Canceled by Requested
+Rejected

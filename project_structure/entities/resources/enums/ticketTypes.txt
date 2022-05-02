@@ -1,0 +1,128 @@
+Account
+Action Item
+Add Repository
+Add Role
+Administrative Task
+Architecture Review
+Assessment Task
+Bug
+Bug Fix Merge
+Build Task
+Build and Delivery Request
+Bundle Request
+Business Requirement
+CR Merge
+Call
+Change Request
+Change Synergy ticket
+Checklist
+Code Review
+Complex Merge
+Compliance
+Configuration Task
+Customizing Model
+Defect
+Defect (WA available)
+Deliverable
+Delivery Project Security Support
+Delivery Request
+Design Gap
+Design Task
+Design Update
+Dev Task
+Documentation Issue
+Documentation Request
+Documentation Task
+Duty Order
+Duty Request
+Enabler
+Enclave
+Environment Setup Request
+Epic
+Equipment Modeling
+Estimate-only Change Request
+External Defect
+External Delivery
+Feature Bug
+Feature Request
+Functionality Change Flash
+Gap
+Gap-analysis
+Hyper Request
+Impacting Fix
+Implementation
+Improvement
+Incident
+Information
+Integration Request
+Internal Change Request
+Internal Defect
+Issue
+Known Issue
+License Delivery
+Mail Request
+Merge Task
+Migration Request
+New Component
+New Customer User
+New Feature
+New Project
+New Branch
+Offer
+Onboarding Request
+PDA Request
+Penertation Testing
+Problem
+Problem Description
+Process Improvement
+Product Catalog Update
+Product Story
+Project
+Project Communication
+Project Task
+Proposal
+Proposal Request
+Publication Task
+Purchase Request
+Question
+RFP Estimation
+RFx Request
+Release Delivery Request
+Request
+Risk Assessment
+Root Cause
+Sales
+Sales/Bids/SOW Approval
+Security Assessment
+Security Infrastructure Maintenance
+Security Patches Delivery
+Security Report
+Smoke Test
+Source Code Delivery
+Source Code Scanning
+Standard and Requirements Analysis
+Story
+Suggestion
+Support Story
+Support ticket
+System Requirement
+Task
+Technical Debt Payment
+Technology Improvement
+Technology Research
+Technology Research and Methodology Improvement
+Template Request
+Test Case
+Test Suite
+Test Task
+Training
+Training Development
+Tune Query
+UG LOE Estimation
+Upgrade
+User Guide
+Utility
+Validation Task
+Vulnerability Analysus and Remediation Plan
+Vulnerability Scanning
+Work Item
